@@ -1,0 +1,1 @@
+# How-To-Read-Text-From-Images-Using-Pytesseract
